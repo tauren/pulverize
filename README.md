@@ -1,4 +1,4 @@
-# pulverize - Micro library aware build tool
+# pulverize - Micro-framework aware build tool
 
 Tired of bloating your latest javascript library with the same code that is already included in many micro-frameworks
 just because you don't want your library to have any dependencies? Add `pulverize` to your build process and let
